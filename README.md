@@ -1,1 +1,10 @@
 # Cypress-course
+
+
+### Visual validation
+
+Linux : export
+Windows: set
+
+export APPLITOOLS_API_KEY=8fKkQTAM105z6v3Vdd989100k8p7fXF108VLvEJMG07rVwn9v8110
+set APPLITOOLS_API_KEY=8fKkQTAM105z6v3Vdd989100k8p7fXF108VLvEJMG07rVwn9v8110
